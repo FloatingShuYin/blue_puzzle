@@ -53,7 +53,7 @@ function cookieHelper() {
 function styleHelper() {
     this.setGridSize = function (level) {
         var margin = this.getMargin(level)
-        var res = ($('.container').width() - margin * level) / (level);
+        var res = ($('.container').width() - margin * level - 15) / (level);
         $('.gamesquare').css('margin-right', margin);
         $('.gamesquare').css('width', res);
         $('.gamesquare').css('height', res);
