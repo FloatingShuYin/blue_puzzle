@@ -1,7 +1,7 @@
 # Blue Puzzle
 
 ## 简介
-这是一个简单的小游戏，非常容易上手，点击[这里](http://floatsyi.com/blue_puzzle/)开始吧！
+这是一个简单的小游戏，非常容易上手，点击[这里](http://floatsyi.com/blue_puzzle/)开始吧！!
 
 ### 看一个简单的截图吧！
 
