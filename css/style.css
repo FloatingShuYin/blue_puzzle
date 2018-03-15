@@ -38,6 +38,9 @@ STYLING FOR AREA ABOVE GAME BOARD
 	display: block;
 	clear:both;
 }
+.gameInfo {
+        margin: 0 auto 2px;
+}
 
 /*
 STYLING FOR GAME BOARD
